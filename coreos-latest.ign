@@ -9,10 +9,7 @@
           "wheel"
         ],
         "name": "cisco",
-        "passwordHash": "$2y$10$6BdXBdmmkc.OOqb8si4O2uXMzk2iR8pQND7o5/nD7bk5/cBZdkc2u",
-        "sshAuthorizedKeys": [
-          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCugbUUHhMMeaVW/OM0h3/DBPyQJfsZt0sT05lzX4++bdxNv4/4dr4DwfQjMxUWXk2SalOJ8ojc1UHrAKLWBik2nbvNJ6jJ7y1AyGFaEyCQ/RRMXqFpo2+N99bvBKfWzD05POaPWJkocgmmGgtihTLeN7q24AArNWbP96uuKNUnIprqTN1xeGNPsJwn2vLen5VRRG7TfU0FNVBhT1qpyFABeK/6jCPeZBJ9ao2cx4A6pgBYcZeBD/cL5+3tEHbl4zH0F60pKj/p/YM2aEXe9Tfm9uY/QK8tI8yNFApvmGNuVraNVFBxkGhQ+IoCRDvad8G/XhDd6Uq4nIBHHYMlv4E9 ubuntu@slurm01"
-        ]
+        "passwordHash": "$2y$10$6BdXBdmmkc.OOqb8si4O2uXMzk2iR8pQND7o5/nD7bk5/cBZdkc2u"        
       }
     ]
   }
