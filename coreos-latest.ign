@@ -9,7 +9,19 @@
           "wheel"
         ],
         "name": "cisco",
-        "passwordHash": "$2y$10$6BdXBdmmkc.OOqb8si4O2uXMzk2iR8pQND7o5/nD7bk5/cBZdkc2u"        
+        "passwordHash": "$2y$10$6BdXBdmmkc.OOqb8si4O2uXMzk2iR8pQND7o5/nD7bk5/cBZdkc2u"
+      }
+    ]
+  },
+  "storage": {
+    "files": [
+      {
+        "path": "/etc/ssh/sshd_config.d/20-enable-passwords.conf",
+        "contents": {
+          "compression": "",
+          "source": "data:,%23%20Fedora%20CoreOS%20disables%20SSH%20password%20login%20by%20default.%0A%23%20Enable%20it.%0A%23%20This%20file%20must%20sort%20before%2040-disable-passwords.conf.%0APasswordAuthentication%20yes%0A"
+        },
+        "mode": 420
       }
     ]
   }
